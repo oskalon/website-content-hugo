@@ -11,7 +11,7 @@ template = "simple-header"
 block = "media-2"
 template = "2-column-media-element"
 [page_sections.image_1]
-caption = ""
+caption = "first image"
 image = ""
 [page_sections.image_2]
 caption = ""
