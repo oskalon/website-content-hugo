@@ -13,8 +13,8 @@ page_sections:
     link_text: Home
   - link_url: "#"
     link_text: Features
-  - link_url: "#"
-    link_text: Pricing
+  - link_url: content_001
+    link_text: Content 001
   - link_url: about
     link_text: About
   cta:
