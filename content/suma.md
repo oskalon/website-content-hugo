@@ -2,7 +2,6 @@
 background_image = "/2018/06/21/forestry-symbol.svg"
 block = "hero-2"
 content = "sumac mala"
-draft = true
 headline = "suma"
 [cta]
 enabled = false
