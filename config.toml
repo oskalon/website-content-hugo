@@ -1,4 +1,5 @@
-baseURL = ""
+baseURL = "https://oskalon.com"
 languageCode = "en-us"
 theme = "ubuild-hugo"
-title = "uBuild: A Page Builder For Hugo and Forestry.io"
+title = "OSKALON"
+
