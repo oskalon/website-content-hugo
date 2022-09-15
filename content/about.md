@@ -13,7 +13,7 @@ template = "2-column-media-element"
 caption = "first image"
 image = ""
 [page_sections.image_2]
-caption = ""
+caption = "RADi"
 image = ""
 
 +++
