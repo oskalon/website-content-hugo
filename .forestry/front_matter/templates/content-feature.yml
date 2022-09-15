@@ -31,3 +31,5 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+pages:
+- content/content_001.md
