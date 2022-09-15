@@ -1,7 +1,6 @@
 +++
 block = "feature-1"
 content = ""
-draft = true
 headline = ""
 media_alignment = "Right"
 [media]
