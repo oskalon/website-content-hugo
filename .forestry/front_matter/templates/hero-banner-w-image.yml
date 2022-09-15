@@ -43,3 +43,5 @@ fields:
     label: Enabled
   - type: include
     template: link
+pages:
+- content/suma.md
