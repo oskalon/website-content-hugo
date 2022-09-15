@@ -1,6 +1,6 @@
 +++
 block = "feature-1"
-content = "<img src=\"/uploads/2018/06/21/edit.gif\">"
+content = "<img src=\"/uploads/oskalon.png\">"
 headline = "CC"
 media_alignment = "Right"
 [media]
