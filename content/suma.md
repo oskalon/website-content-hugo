@@ -10,6 +10,6 @@ link_url = ""
 open_in_new_tab = false
 [image]
 alt_text = ""
-image = ""
+image = "/oskalon.png"
 
 +++
