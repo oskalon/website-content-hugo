@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link_url: ''
     link_text: ''
-  - link_url: "/"
-    link_text: Home
+  - link_url: suma
+    link_text: Bokac
   - link_url: suma
     link_text: suma
   - link_url: content_001
