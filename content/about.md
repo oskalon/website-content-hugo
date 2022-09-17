@@ -15,7 +15,9 @@ image = "uploads/oskalon.png"
 [page_sections.image_2]
 caption = "second oskalon image"
 image = "/uploads/oskalon.png"
+[[page_sections]]
+block = "hero-1"
+heading = "OSKALON"
+template = "text-only-hero-banner"
 
 +++
-
-
