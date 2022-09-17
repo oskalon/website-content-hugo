@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/oskalon.png"
   navigation:
+  - link_url: http://oskalon.com/monetize
+    link_text: Monetization platform
   - link_url: ''
     link_text: ''
   - link_url: "#"
