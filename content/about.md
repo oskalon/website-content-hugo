@@ -13,7 +13,7 @@ template = "2-column-media-element"
 caption = "first image"
 image = "uploads/oskalon.png"
 [page_sections.image_2]
-caption = "second image"
+caption = "second oskalon image"
 image = "/uploads/oskalon.png"
 
 +++
