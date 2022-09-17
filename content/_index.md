@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link_url: ''
     link_text: ''
-  - link_url: suma
+  - link_url: "#"
     link_text: Bokac
   - link_url: suma
     link_text: suma
