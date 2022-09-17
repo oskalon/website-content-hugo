@@ -10,7 +10,7 @@ page_sections:
   - link_url: ''
     link_text: ''
   - link_url: "#"
-    link_text: Cica Bokac oskalonac
+    link_text: Cica Bokac Oskalonac
   - link_url: suma
     link_text: suma
   - link_url: content_001
