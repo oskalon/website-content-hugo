@@ -10,7 +10,7 @@ page_sections:
   - link_url: ''
     link_text: ''
   - link_url: "#"
-    link_text: Bokac
+    link_text: Cica Bokac
   - link_url: suma
     link_text: suma
   - link_url: content_001
