@@ -10,11 +10,7 @@ page_sections:
   - link_url: ''
     link_text: ''
   - link_url: "#"
-    link_text: Cica Bokac Oskalonac
-  - link_url: suma
-    link_text: suma
-  - link_url: content_001
-    link_text: Content 001
+    link_text: Products
   - link_url: about
     link_text: About
   cta:
@@ -31,7 +27,7 @@ page_sections:
     link_url: https://oskalon.com/register
     link_text: Register now
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/oskalon.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
