@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/oskalon.png"
   navigation:
+  - link_url: monetize
+    link_text: Monetization platform
   - link_url: ''
     link_text: ''
   - link_url: "#"
@@ -14,8 +16,8 @@ page_sections:
   - link_url: about
     link_text: About
   cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
+    link_url: http://www.oskalon.com
+    link_text: Sign Up
     open_in_new_tab: true
 - template: hero-banner-w-image
   block: hero-2
