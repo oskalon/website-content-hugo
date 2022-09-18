@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on coHub</title>
+    <link>https://cohub-hugo.netlify.app/tags/</link>
+    <description>Recent content in Tags on coHub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate><atom:link href="https://cohub-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marketing</title>
+      <link>https://cohub-hugo.netlify.app/tags/marketing/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
+      
+      <guid>https://cohub-hugo.netlify.app/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://cohub-hugo.netlify.app/tags/news/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
+      
+      <guid>https://cohub-hugo.netlify.app/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://cohub-hugo.netlify.app/tags/web-design/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
+      
+      <guid>https://cohub-hugo.netlify.app/tags/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,13 +1,13 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://oskalon.com'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
+title = 'OSKALON'
  
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "Exibition"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
@@ -48,8 +48,8 @@ title = 'coHub'
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
-  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  copyright = "© {year} <a href=\"https://\" target=\"_blank\">StaticMania </a>"
+  fabFormURL =  "https://"
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
