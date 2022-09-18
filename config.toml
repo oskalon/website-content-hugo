@@ -45,6 +45,7 @@ title = 'OSKALON'
   url = "/terms/"
   weight = 2
 
+
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
