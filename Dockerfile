@@ -14,4 +14,4 @@ COPY nginx/default.conf /etc/nginx/conf.d/
 
 RUN rm -rf /usr/share/nginx/html/*
 COPY --from=builder /website/public/ /usr/share/nginx/html
-
+RUN chmod +R /usr/share/nginx/html
