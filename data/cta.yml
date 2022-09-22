@@ -3,4 +3,5 @@ enable: true
 title: "Register."
 buttonTarget: contact
 priceLink: "#priceLink"
+
 ---
