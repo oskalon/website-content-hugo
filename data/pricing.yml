@@ -1,27 +1,26 @@
 ---
 enable: true
-title: "Simple pricing for everyone"
+title: "Adaptable plans for your use case"
 subtitle: >
-          Whether you're looking for a full-time workspace or are just visiting Melbourne,
-           we've got an option for everyone
+          J
 buttonTarget: "contact"
 itemPrices:
   - package: "Daily"
     description: >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 19
+    price: 199
     badge: 
   - package: "Weekly"
     description: >
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Libero exercitationem sed eius autem quisquam sapiente?
-    price: 79
+    price: 499
     badge: popular
   - package: "Monthly"
     description: >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
                 quas nesciunt vitae suscipit necessitatibus ea.
-    price: 99
+    price: 999
     badge:
 ---

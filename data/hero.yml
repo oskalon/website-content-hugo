@@ -1,9 +1,10 @@
 ---
-title : "<h1>Premium data collection platform</h1>"
+title : "<h1>Premium public data platform</h1>"
 enable: true
 subtitle: >
-        Our mobile and residential proxy network is second to none
+        Massive structured web data
+
 heroBGimg: "images/hero/hero-bg.jpg"
-heroVideo : ""
-herosVideoDesc: "<span> <strong>OSKALON. in</strong> 30 Seconds</span>"
+# heroVideo : ""
+# herosVideoDesc: "<span> <strong>OSKALON in</strong> 30 Seconds</span>"
 ---
