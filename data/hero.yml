@@ -4,7 +4,7 @@ enable: true
 subtitle: >
         Massive structured web data
 
-heroBGimg: "images/hero/hero-bg.jpg"
+heroBGimg: "images/hero/hero-bg.webp"
 # heroVideo : ""
 # herosVideoDesc: "<span> <strong>OSKALON in</strong> 30 Seconds</span>"
 ---
