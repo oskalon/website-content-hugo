@@ -2,7 +2,7 @@
 enable: true
 title: "Adaptable plans for your use case"
 subtitle: >
-          J
+          
 buttonTarget: "contact"
 itemPrices:
   - package: "Daily"

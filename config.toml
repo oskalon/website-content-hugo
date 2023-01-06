@@ -7,21 +7,9 @@ title = 'OSKALON'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibition"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "Feature"
-  url= "#service"
-  weight = 1
-  [[menu.Main]]
   name = "About"
   url= "/about/"
   weight = 3
-  [[menu.Main]]
-  name = "Blog"
-  url= "#blog"
-  weight = 4
   [[menu.Main]]
   name = "Pricing"
   url= "#pricing"
@@ -34,6 +22,11 @@ title = 'OSKALON'
   name = "Contact"
   url= "/contact/"
   weight = 7
+
+  [[menu.Main]]
+  name = "Blog"
+  url= "#blog"
+  weight = 8
 
   # Sitemap Menu
   [[menu.sitemap]]
@@ -50,26 +43,25 @@ title = 'OSKALON'
   aboutPageURL = "blog"
   contactLink = "contact"
   copyright = "© {year} Oskalon"
-  fabFormURL =  "https://"
   googleAnalytics = ""
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
   footerDescription = ""
 
   [params.address]
-  address = "Oskalon DOO"
+  address = "MacGruber DOO"
   email = "info@oskalon.com"
   openingDesc = ""
   openingHours = ""
   phone = ""
 
   [params.map]
-  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "45.4502528"
-  longitude = "-122.783407"
+  APIkey = ""
+  latitude = ""
+  longitude = ""
   pinImage = "images/pin.png"
 
-  # Socail icons
+  # Social icons
   [[params.social]]
   icon = "ti-facebook"
   url = "https://www.facebook.com/"
