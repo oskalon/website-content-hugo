@@ -2,37 +2,25 @@
 enable: true
 title: "Why Choose us?"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+  3D product photography allows for a more detailed and accurate representation of a product, which can be beneficial for e-commerce and online retail. It allows customers to view products from multiple angles and zoom in to see details that may not be visible in traditional 2D photography. This can help customers make more informed purchasing decisions, and can also help to reduce returns and customer dissatisfaction. Additionally, 3D product photography can be used for virtual product demonstrations and other marketing materials, providing a more immersive and interactive experience for the customer.
+
 services:
-  - name: "largest Network"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-help-alt"
-  - name: "Easy Payment"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-credit-card"
-  - name: "Dedicated Locker"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-lock"
-  - name: "Personalization"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-image"
 ---

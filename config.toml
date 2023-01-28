@@ -71,10 +71,6 @@ title = 'OSKALON'
   url = "https://twitter.com/"
   weight = 2
   [[params.social]]
-  icon = "ti-dribbble"
-  url = "https://dribbble.com/"
-  weight = 3
-  [[params.social]]
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
   weight = 4

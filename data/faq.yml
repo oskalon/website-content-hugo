@@ -5,5 +5,11 @@ faq:
   - question: "Q. Do I have to sign into long term contract?"
     answer: >
             No, our packages are pay as you go. Cancel anytime.
-
+  - question: "Q. Is there an API I can use"
+    answer: >
+            YES! We are developer focuseed so eerythign is available through well documented API's. 
+            In case there is something you might like to do through API, let us know. 
+  - question: "Q: Is there an SDK for IOS that I can use to bootstrap my own projects?"
+    answer: >
+            YES! SDK is available and free to use. 
 ---

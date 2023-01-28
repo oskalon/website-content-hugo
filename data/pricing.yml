@@ -1,26 +1,21 @@
 ---
 enable: true
-title: "Adaptable plans for your use case"
+title: "Straightforward pricing"
 subtitle: >
           
 buttonTarget: "contact"
 itemPrices:
-  - package: "Daily"
+  - package: "Single developer"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 199
+    price: 12.00 
     badge: 
-  - package: "Weekly"
+  - package: "Agency"
     description: >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Libero exercitationem sed eius autem quisquam sapiente?
-    price: 499
+                Best value for small agencies 
+    price: 270
     badge: popular
   - package: "Monthly"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
-                quas nesciunt vitae suscipit necessitatibus ea.
     price: 999
     badge:
 ---
