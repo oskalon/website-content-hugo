@@ -2,7 +2,7 @@ baseURL = 'https://oskalon.com'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'OSKALON'
+title = 'OSKALON - 3d scanning'
  
 [Menu]
   # Main Menu
