@@ -1,26 +1,35 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "Oskalon for E-commerce"
 subtitle: >
   3D product photography allows for a more detailed and accurate representation of a product, which can be beneficial for e-commerce and online retail. It allows customers to view products from multiple angles and zoom in to see details that may not be visible in traditional 2D photography. This can help customers make more informed purchasing decisions, and can also help to reduce returns and customer dissatisfaction. Additionally, 3D product photography can be used for virtual product demonstrations and other marketing materials, providing a more immersive and interactive experience for the customer.
 
 services:
-  - name: ""
+  - name: "Capabilities"
     description: >
+      Best in class photogrammetry.
+
     icon: "ti-view-grid"
-  - name: ""
+
+  - name: "Lifetime"
     description: >
+      Perpetual licence.
     icon: "ti-infinite"
-  - name: ""
+
+  - name: "Support"
     description: >
+
     icon: "ti-help-alt"
-  - name: ""
-    description: >
-    icon: "ti-credit-card"
-  - name: ""
-    description: >
-    icon: "ti-lock"
-  - name: ""
-    description: >
-    icon: "ti-image"
+
+#  - name: ""
+#    description: >
+#    icon: "ti-credit-card"
+
+#  - name: ""
+#    description: >
+#    icon: "ti-lock"
+
+#  - name: ""
+#    description: >
+#    icon: "ti-image"
 ---

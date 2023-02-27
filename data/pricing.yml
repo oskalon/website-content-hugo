@@ -3,19 +3,12 @@ enable: true
 title: "Straightforward pricing"
 subtitle: >
           
-buttonTarget: "contact"
+buttonTarget: "google.com"
 itemPrices:
-  - package: "Single developer"
+  - package: "Perpetual licence"
     description: >
-    price: 12.00 
+          Use on as many devices as you like. Free updates for a year.
+    price: 149.00
     badge: 
-  - package: "Agency"
-    description: >
-                Best value for small agencies 
-    price: 270
-    badge: popular
-  - package: "Monthly"
-    description: >
-    price: 999
-    badge:
+
 ---
