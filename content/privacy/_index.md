@@ -5,4 +5,5 @@ subtitle: >
   Terms and conditions
 ---
 ## What is OSKALON?
-  Oskalon is provider of data collection services. 
+  Oskalon is provider of data collection services.
+  Oskalon Observer.
