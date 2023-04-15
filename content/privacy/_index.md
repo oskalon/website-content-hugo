@@ -6,4 +6,3 @@ subtitle: >
 ---
 ## What is OSKALON?
   Oskalon is provider of data collection services.
-  Oskalon Observer.
