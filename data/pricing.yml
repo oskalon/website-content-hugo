@@ -7,8 +7,8 @@ buttonTarget: "google.com"
 itemPrices:
   - package: "Perpetual licence"
     description: >
-          Use on as many devices as you like. Free updates for a year.
-    price: 149.00
+      Use on as many devices as you like. Free updates for a year.
+    price: 49.00
     badge: 
 
 ---
