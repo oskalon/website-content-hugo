@@ -10,14 +10,14 @@ title = 'OSKALON - 3d scanning'
   name = "About"
   url= "/about/"
   weight = 3
-  [[menu.Main]]
-  name = "Pricing"
-  url= "#pricing"
-  weight = 5
-  [[menu.Main]]
-  name = "FAQ"
-  url= "#faq"
-  weight = 6
+  #[[menu.Main]]
+  #name = "Pricing"
+  #url= "#pricing"
+  #weight = 5
+  #[[menu.Main]]
+  #name = "FAQ"
+  #url= "#faq"
+  #weight = 6
   [[menu.Main]]
   name = "Contact"
   url= "/contact/"

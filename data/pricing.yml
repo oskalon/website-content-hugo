@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Straightforward pricing"
 subtitle: >
           
@@ -10,5 +10,4 @@ itemPrices:
       Use on as many devices as you like. Free updates for a year.
     price: 49.00
     badge: 
-
 ---
