@@ -21,7 +21,7 @@ title = 'OSKALON - 3d scanning'
  
   [[menu.Main]]
   name = "Blog"
-  url= "blog"
+  url= "/blog/"
   weight = 6
   
   [[menu.Main]]
