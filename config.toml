@@ -18,15 +18,17 @@ title = 'OSKALON - 3d scanning'
   #name = "FAQ"
   #url= "#faq"
   #weight = 6
+ 
+  [[menu.Main]]
+  name = "Blog"
+  url= "blog"
+  weight = 6
+  
   [[menu.Main]]
   name = "Contact"
   url= "/contact/"
   weight = 7
 
-#   [[menu.Main]]
-#   name = "Blog"
-#   url= "#blog"
-#   weight = 8
 
   # Sitemap Menu
   [[menu.sitemap]]
