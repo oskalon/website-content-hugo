@@ -3,7 +3,9 @@ languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
 title = 'OSKALON - 3d scanning'
- 
+
+enableRobotsTXT = true
+
 [Menu]
   # Main Menu
   [[menu.Main]]
